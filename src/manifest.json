@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "ChatGPT Extra",
+  "version": "1.0.1",
+  "description": "Dynamically renders HTML code blocks inline as the page is being created.",
+  "author": "Filipe Almeida",
+  "content_scripts": [
+    {
+      "matches": ["https://chat.openai.com/*"],
+      "js": ["contentScript.js"]
+    }
+  ],
+  "host_permissions": ["https://chat.openai.com/*"]
+}
