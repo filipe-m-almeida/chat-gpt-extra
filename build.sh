@@ -1,3 +1,3 @@
 #!/bin/sh
 
-(cd src; zip ../dist/chat-gpt-extra.crx *)
+(cd src; zip ../dist/chat-gpt-extra.zip *)

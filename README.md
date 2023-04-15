@@ -1,6 +1,9 @@
 # ChatGPT Inline Code Renderer
 
-A Chrome extension that dynamically renders HTML code blocks inline as the page is being created. Seamlessly view inline HTML code snippets directly in your chat window.
+A Chrome extension that dynamically renders HTML code blocks inline on chat.openai.com
+the page is being created. Seamlessly view inline HTML code snippets directly in your chat window.
+
+![Screenshot](screenshot.jpg)
 
 ## Features
 
