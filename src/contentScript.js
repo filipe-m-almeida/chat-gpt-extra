@@ -14,8 +14,8 @@
 
 
 const config = {
-  codeBlockContainerSelector: 'div.bg-black.rounded-md.mb-4',
-  headerSelector: '.flex.items-center.relative.text-gray-200.bg-gray-800.px-4.py-2.text-xs.font-sans.justify-between.rounded-t-md',
+  codeBlockContainerSelector: '.dark.bg-gray-950.rounded-md',
+  headerSelector: '.flex.items-center.relative.text-token-text-secondary.bg-token-main-surface-secondary.px-4.py-2.text-xs.font-sans.justify-between.rounded-t-md',
   codeBlockSelector: 'code.hljs',
   renderedCodeSelector: '.rendered-code',
   iframeSelector: 'iframe',
