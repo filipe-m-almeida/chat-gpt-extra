@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "ChatGPT Extra",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Dynamically renders HTML code blocks inline as the page is being created.",
   "author": "Filipe Almeida",
   "content_scripts": [
